@@ -1,0 +1,98 @@
+body{
+    
+    border: cap;
+    background-color: black;
+    font-size: larger;
+    padding-top: 2%;
+    padding-left : 5%; 
+}
+#first
+{
+    color: red;
+    font-weight: 600;
+    font-size : 28px;
+}
+button:hover
+{
+    color: black;
+}
+button
+{
+    color: white;
+    background-color: blue;
+    margin-right: 10px;
+    width : 90px;
+    height : 55px;
+}
+input{
+    width : 350px;
+    height: 35px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#buttons
+{
+    margin-top: 15px;
+}
+#buttons button 
+{
+    width: 150px;
+    height: 40px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+#clgname
+{
+    font-weight: 800;
+    font-size: 55px;
+    color : rgb(248, 162, 3);
+    text-align: center;
+    text-shadow: 3px 3px 6px rgb(92, 92, 228);
+}
+.tagline
+{
+    color : white;
+    font-style: italic;
+    font-size: 20px;
+    padding-left: 40%;
+    padding-top: 0%;
+}
+footer{
+    color : red;
+    background-color: grey;
+    text-align: center;
+    padding-bottom: 0%;
+}
+.contact
+{
+    text-align: left;
+    color : white;
+    padding-top: 20%;
+}
+#link
+{
+    color : red;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+#login{
+    width: 40%;
+}
+
+#about{
+    width: 70%;
+    color: white;
+}
+#aboutname
+{
+    color : red
+}
+#aboutparagraph{
+    text-align : justify;
+    padding-right: 30px;
+    font-style: italic;
+}
